@@ -1,0 +1,32 @@
+Partlist exported from /usr/people/dlopez/Dropbox/electronica/eagle/ebook-light/v2/main.sch at 9/16/11 12:36 PM
+
+Part   Value             Device            Package         Description                         
+C1     >4.7u             CPOL-EUSMCB       SMC_B           POLARIZED CAPACITOR, European symbol
+C2     >4.7u             CPOL-EUSMCB       SMC_B           POLARIZED CAPACITOR, European symbol
+C3     2.2u-10u          CPOL-EUSMCB       SMC_B           POLARIZED CAPACITOR, European symbol
+C4     470n              C-EUC1206         C1206           CAPACITOR, European symbol          
+C5     470n              C-EUC1206         C1206           CAPACITOR, European symbol          
+C6     470n              C-EUC1206         C1206           CAPACITOR, European symbol          
+C8     100n              C-EUC1206         C1206           CAPACITOR, European symbol          
+C9     100n              C-EUC1206         C1206           CAPACITOR, European symbol          
+LED1                     MA02-1            MA02-1W                                             
+Q1     2N3904SOT23       2N3904SOT23       SOT23           NPN Transistor                      
+R1     330               R-EU_R1206        R1206           RESISTOR, European symbol           
+R2     >3k8              R-EU_R1206        R1206           RESISTOR, European symbol           
+R3     >70               R-EU_R1206        R1206           RESISTOR, European symbol           
+R4     <1k4              R-EU_R1206        R1206           RESISTOR, European symbol           
+R5     100               R-EU_R1206        R1206           RESISTOR, European symbol           
+R6     1k                R-TRIMM3314J      RTRIM3314J      Trimm resistor                      
+R8     1M                R-EU_R0805        R0805           RESISTOR, European symbol           
+R9     1M                R-EU_R0805        R0805           RESISTOR, European symbol           
+R10    1M                R-EU_R0805        R0805           RESISTOR, European symbol           
+STATUS                   LEDCHIPLED_1206   CHIPLED_1206    LED                                 
+U$1    MAX1910/12        MAX1910/12        UMAX/USOP_10L   MAX1910/12                          
+U$2    MAX6375           MAX6375           SC70-3-W        MAX6375                             
+U$3    BAT520_CONNECTION BAT520_CONNECTION BAT520_CONN_SMD                                     
+U$4    BAT520_PACKAGE    BAT520_PACKAGE    BAT520_PACKAGE                                      
+U$5    MICROUSB_B        MICROUSB_B        USB-MICROB      USB+Shield                          
+U$6    MICROBUTTON_0072  MICROBUTTON_0072  MICROBUTTON                                         
+U$7    SN74LVC1G79       SN74LVC1G79       SOT23-5                                             
+U$8    TPS1100           TPS1100           SO08                                                
+U1     MCP73832          MCP73832          SOT23-5         Microchip's MCP73832                
